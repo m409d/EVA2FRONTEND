@@ -1,0 +1,129 @@
+*{
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+        "XROT" 0,
+        "YROT" 0;
+}
+
+header{
+    background-color: rgb( 248, 249, 250);
+}
+
+
+div nav{
+    background-color: rgb( 248, 249, 250);
+}
+
+
+body{
+    background-image: url(kuku.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1{
+    padding-left: 100px;
+    font-size: 20px;
+    padding-top: 40px;
+    
+}
+
+
+
+main{
+    justify-content: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 1%;
+    border-radius: 1%;
+    background-color: blanchedalmond;
+    padding-bottom: 10%;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 60px;
+    border-color: black;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-right: 90%;
+}
+
+p{
+text-align: center;
+margin-bottom: 100px;
+font-size: 50px;
+}
+p1{
+    text-align: center;
+margin-bottom: 20px;
+font-size: 20px;
+}
+
+
+.card1{
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    float: left;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+div br2{
+    margin-left: 30px;
+}
+
+div p2{
+    font-size: 20px;
+}
+
+
+.card2{
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    float: left;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+div br2{
+    margin-left: 30px;
+
+}
+div p3{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+
+.card3{
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    float: left;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+
+.card4{
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    float: left;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
